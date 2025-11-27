@@ -4,7 +4,7 @@
 <!-- ============================================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/diogolsouza/diogolsouza/images/main/github-banner-diogo.png" width="100%" alt="Diogo Souza – Senior Data Engineer">
+  <img src="images/github-banner-diogo.png" width="100%" alt="Diogo Souza – Senior Data Engineer">
 </p>
 
 <h1 align="center">Hi, I'm Diogo Souza 👋</h1>
