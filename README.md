@@ -1,130 +1,131 @@
-<h1 align="center">Hi, I'm Diogo Souza 👋</h1>
+<!-- ============================================= -->
+<!--            PLACEHOLDER DO BANNER               -->
+<!-- Substitua pela imagem criada no Canva depois  -->
+<!-- ============================================= -->
 
 <p align="center">
-  <b>Senior Data Engineer | BI & Data Warehousing | AI & ML Specialist</b><br>
-  Madrid, Spain 🇪🇸
+  <img src="BANNER_AQUI" width="100%" alt="Diogo Souza – Senior Data Engineer">
+</p>
+
+<h1 align="center">Hi, I'm Diogo Souza 👋</h1>
+<p align="center"><b>Senior Data Engineer | BI & AI/ML Specialist</b><br>Madrid, Spain 🇪🇸</p>
+
+<!-- ============================================= -->
+<!--                  BADGES CORPORATE             -->
+<!-- ============================================= -->
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Azure-Data%20Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-Engineer-EF3E34?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Practitioner-FF6F00?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I am a **Senior Data Engineer** with nearly **15 years of experience** building scalable data platforms, BI solutions, and AI-powered analytics across aviation, finance, government, and infrastructure.
+I’m a **Senior Data Engineer** with nearly **15 years of experience** designing and delivering data solutions across aviation, finance, government, and large-scale enterprise environments.
 
-I specialize in designing **AI-ready data architectures**, developing **ETL/ELT pipelines**, and creating **end-to-end analytical solutions** using Power BI, Azure, Databricks, SQL, Python, and modern LLM technologies.
+My work focuses on:
 
-I am passionate about:
 - Data Engineering & Architecture  
 - Business Intelligence (Power BI, Tableau, Looker)  
-- Machine Learning & MLOps  
-- Artificial Intelligence / LLMs / RAG  
-- Cloud Data Platforms (Azure)  
-- Dimensional Modeling & Data Governance  
+- AI & Machine Learning  
+- Azure Cloud & Databricks  
+- ETL/ELT pipelines  
+- Dimensional modeling (Kimball)  
+- LLM-based automations and RAG systems  
+
+I build **AI-ready data ecosystems** that make analytics faster, scalable, and intelligent.
 
 ---
 
-## 📂 Featured Portfolio
+# 📂 Featured Portfolio
 
-Here is my full **Data & AI Portfolio**, containing BI dashboards, Data Engineering pipelines, ML notebooks, AI/LLM projects, and curated datasets:
-
-👉 **Portfolio Repository**  
+👉 **Full Portfolio**  
 🔗 https://github.com/diogolsouza/portfolio
 
-### 📊 Business Intelligence
-- Power BI (AdventureWorks, Superstore, HR Analytics)
-- Tableau (Superstore, NYC Taxi, HR)
-- Looker Studio (Google Analytics, Superstore, Taxi)
+### 📊 Business Intelligence  
+- Power BI: AdventureWorks, Superstore, HR Analytics  
+- Tableau: NYC Taxi, Sales dashboards  
+- Looker Studio: Web analytics, funnel visualizations  
 
-### 🛠 Data Engineering
-- Azure Data Factory Pipelines  
+### 🛠 Data Engineering  
+- Azure Data Factory pipelines  
 - Databricks ETL (Bronze → Silver → Gold)  
-- SQL Pipelines & DWH Modeling  
-- Incremental Loads & SCDs  
-- End-to-end analytics architectures  
+- SQL pipelines & models  
+- Incremental loads & SCD logic  
 
-### 🤖 Machine Learning
-- Churn Model  
-- Fraud Detection  
-- Customer Segmentation  
-- Sentiment Analysis  
-- Azure ML & MLOps deployment  
+### 🤖 Machine Learning  
+- Churn model  
+- Fraud detection  
+- Customer segmentation  
+- Sentiment analysis  
+- Azure ML deployment  
 
-### 🧠 AI & LLM Projects
-- Resume Analyzer (LLM)
-- Data Governance RAG Assistant
-- Agentic AI for Data Engineers
-- Prompt Engineering Library
+### 🧠 AI / LLM Projects  
+- Resume Analyzer (LLM)  
+- Data Governance RAG Assistant  
+- Agentic Data Engineer  
+- Prompt engineering library  
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Data Engineering**
-- Azure Data Factory  
-- Azure SQL MI  
+**Cloud & Engineering**
+- Azure Data Factory, Azure SQL MI  
 - Databricks (Delta Lake, PySpark)  
-- SQL Server  
-- ETL/ELT Pipelines  
-- Orchestration  
+- SQL Server, SSMS, SQL Modeling  
+- CI/CD, GitHub  
 
-**Business Intelligence**
+**BI & Analytics**
 - Power BI  
 - Tableau  
 - Looker Studio  
 - DAX, LODs, Data Modeling  
 
-**Machine Learning / AI**
+**Machine Learning & AI**
 - Python (pandas, numpy, sklearn)  
 - LLMs (OpenAI, Azure OpenAI, LangChain)  
-- RAG, Embeddings, Vector Databases  
-- MLOps Concepts  
-
-**Cloud / DevOps**
-- Azure  
-- GitHub / DevOps  
-- CI/CD concepts  
+- RAG, vector stores  
+- Model deployment & automation  
 
 ---
 
-## 🏅 Certifications
+# 🏅 Certifications
 
-**Microsoft**
-- DP-900 · DP-203 · DP-600  
-- AI-900 · AI-102 (in progress)  
-- DP-100  
+**Microsoft**  
+DP-900 · DP-203 · DP-600 · AI-900 · AI-102 (in progress) · DP-100  
 
-**AWS**
-- Cloud Practitioner  
-- Data Engineer Associate (in progress)
+**AWS**  
+Cloud Practitioner · Data Engineer Associate (in progress)
 
-**Google**
-- Professional Data Engineer  
-- Data Analytics Certificate  
+**Google**  
+Professional Data Engineer · Data Analytics Certificate  
 
-**Databricks**
-- Lakehouse Fundamentals  
-- Data Engineer Associate  
-- GenAI Fundamentals  
-- ML Associate  
+**Databricks**  
+Lakehouse Fundamentals · Data Engineer Associate · GenAI Fundamentals · ML Associate  
 
-**DAMA**
-- CDMP Fundamentals (in progress)
+**DAMA**  
+CDMP Fundamentals (in progress)
 
-**DeepLearning.AI**
-- Deep Learning Specialization  
-- Generative AI with LLMs  
+**DeepLearning.AI**  
+Deep Learning Specialization · Generative AI with LLMs  
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-Feel free to reach out or connect:
-
-- **LinkedIn:** https://www.linkedin.com/in/diogolsouza/  
-- **Location:** Madrid, Spain  
-- **GitHub:** https://github.com/diogolsouza  
+**LinkedIn:** https://www.linkedin.com/in/diogo-souza/  
+**Location:** Madrid, Spain  
+**GitHub:** https://github.com/diogolsouza  
 
 ---
 
-⭐ *Thanks for visiting my profile!*  
-If you like my projects, feel free to ⭐ star the repositories or connect with me on LinkedIn.
+<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my work or get in touch.</p>
