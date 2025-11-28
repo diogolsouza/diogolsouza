@@ -98,7 +98,13 @@ I build **AI-ready data ecosystems** that make analytics faster, scalable, and i
 
 ---
 
-## 🏅 Certifications (by Vendor)
+## 🏅 Certifications
+
+This portfolio is supported by a strong set of certifications across 
+Azure, AWS, Google Cloud, Databricks, and DAMA International — 
+covering both Data Engineering and AI/ML.  
+For the full certification list, see my GitHub profile:  
+👉 https://github.com/diogolsouza
 
 ### 🟦 Microsoft
 - DP-900 — Azure Data Fundamentals  
@@ -149,21 +155,21 @@ I build **AI-ready data ecosystems** that make analytics faster, scalable, and i
 ---
 
 ### 🟣 DAMA International
-- CDMP – Data Management Fundamentals  
-- CDMP – Data Quality (Specialist Exam)  
-- CDMP – Data Warehousing & Business Intelligence (Specialist Exam)  
+- CDMP — Data Management Fundamentals  
+- CDMP — Data Modeling & Design (Specialist Exam)  
+- CDMP — Data Warehousing & Business Intelligence (Specialist Exam)  
 
 ---
 
 ### 🟡 TDWI
-- CBIP – Data Foundations Exam  
-- CBIP – IS Core or Business Core Exam  
-- CBIP – Specialty Exam (e.g., Data Integration, Analytics, or Governance)  
+- CBIP — Data Foundations Exam  
+- CBIP — IS Core Exam  
+- CBIP — Data Integration (Specialty Exam)  
 
 ---
 
 ### 📊 INFORMS / CertifiedAnalytics.org
-- CAP – Certified Analytics Professional  
+- CAP — Certified Analytics Professional  
 
 ---
 
