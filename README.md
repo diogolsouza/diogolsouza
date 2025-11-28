@@ -98,25 +98,90 @@ I build **AI-ready data ecosystems** that make analytics faster, scalable, and i
 
 ---
 
-# 🏅 Certifications
+## 🏅 Certifications (by Vendor)
 
-**Microsoft**  
-DP-900 · DP-203 · DP-600 · AI-900 · AI-102 (in progress) · DP-100  
+### 🟦 Microsoft
+- DP-900 — Azure Data Fundamentals  
+- PL-300 — Power BI Data Analyst Associate  
+- DP-700 — Data Analyst Associate  
+- DP-600 — Fabric Analytics Engineer Associate  
+- AZ-104 — Azure Administrator Associate  
+- AZ-305 — Azure Solutions Architect Expert  
+- AZ-400 — Designing and Implementing Microsoft DevOps Solutions  
+- AI-900 — Azure AI Fundamentals  
+- AI-102 — Azure AI Engineer Associate  
+- AI-050 — Azure OpenAI Fundamentals  
+- AB-100 — Agentic AI Business Solutions Architect (beta)  
 
-**AWS**  
-Cloud Practitioner · Data Engineer Associate (in progress)
+---
 
-**Google**  
-Professional Data Engineer · Data Analytics Certificate  
+### 🟧 AWS
+- CLF-C02 — AWS Certified Cloud Practitioner  
+- SAA-C03 — AWS Certified Solutions Architect – Associate  
+- DEA-C01 — AWS Certified Data Engineer – Associate  
+- SAP-C02 — AWS Certified Solutions Architect – Professional  
+- DOP-C02 — AWS Certified DevOps Engineer – Professional  
+- MLS-C01 — AWS Certified Machine Learning – Specialty  
+- DAS-C01 — AWS Certified Data Analytics – Specialty  
+- GAI-A01 — AWS Certified Generative AI Engineer – Associate  
 
-**Databricks**  
-Lakehouse Fundamentals · Data Engineer Associate · GenAI Fundamentals · ML Associate  
+---
 
-**DAMA**  
-CDMP Fundamentals (in progress)
+### 🟦 Google Cloud
+- GCP-CDL — Cloud Digital Leader  
+- GCP-ACE — Associate Cloud Engineer  
+- GCP-PDE — Professional Data Engineer  
+- GCP-PCA — Professional Cloud Architect  
+- GCP-PMLE — Google Professional Machine Learning Engineer  
+- GCP-GAI — Google Cloud Generative AI Engineer  
 
-**DeepLearning.AI**  
-Deep Learning Specialization · Generative AI with LLMs  
+---
+
+### 🔴 Databricks
+- Databricks Accredited Lakehouse Platform Fundamentals  
+- Databricks Certified Data Engineer Associate  
+- Databricks Certified Data Engineer Professional  
+- Databricks Certified Associate Developer for Apache Spark (Python)  
+- ML-Associate — Databricks Certified Machine Learning Associate  
+- ML-Professional — Databricks Certified Machine Learning Professional  
+- GenAI — Databricks Generative AI Professional  
+
+---
+
+### 🟣 DAMA International
+- CDMP – Data Management Fundamentals  
+- CDMP – Data Quality (Specialist Exam)  
+- CDMP – Data Warehousing & Business Intelligence (Specialist Exam)  
+
+---
+
+### 🟡 TDWI
+- CBIP – Data Foundations Exam  
+- CBIP – IS Core or Business Core Exam  
+- CBIP – Specialty Exam (e.g., Data Integration, Analytics, or Governance)  
+
+---
+
+### 📊 INFORMS / CertifiedAnalytics.org
+- CAP – Certified Analytics Professional  
+
+---
+
+### 📈 Tableau
+- TCCP — Tableau Certified Consultant / Professional  
+- TCAI — Tableau + Einstein Discovery: AI Integration Specialist  
+
+---
+
+### 🧠 NVIDIA
+- NVAIE — NVIDIA Certified AI Engineer  
+- DLI-DL — NVIDIA Deep Learning Institute – Fundamentals of Deep Learning  
+
+---
+
+### 🧩 IBM
+- IBM-AI — IBM AI Engineering Professional Certificate  
+- IBM-ML — IBM Machine Learning Professional Certificate  
 
 ---
 
