@@ -48,7 +48,7 @@ I build **AI-ready data ecosystems** that make analytics faster, scalable, and i
 # 📂 Featured Portfolio
 
 👉 **Full Portfolio**  
-🔗 https://github.com/diogolsouza/portfolio
+🔗 [View Portfolio](https://github.com/diogolsouza/portfolio)
 
 ### 📊 Business Intelligence  
 - Power BI: AdventureWorks, Superstore, HR Analytics  
@@ -104,7 +104,7 @@ This portfolio is supported by a strong set of certifications across
 Azure, AWS, Google Cloud, Databricks, and DAMA International — 
 covering both Data Engineering and AI/ML.  
 For the full certification list, see my GitHub profile:  
-👉 https://github.com/diogolsouza/portfolio/tree/main/certifications
+👉 [View Certifications](https://github.com/diogolsouza/portfolio/tree/main/certifications)
 
 ### 🟦 Microsoft
 - DP-900 — Azure Data Fundamentals  
