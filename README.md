@@ -104,7 +104,7 @@ This portfolio is supported by a strong set of certifications across
 Azure, AWS, Google Cloud, Databricks, and DAMA International — 
 covering both Data Engineering and AI/ML.  
 For the full certification list, see my GitHub profile:  
-👉 https://github.com/diogolsouza
+👉 https://github.com/diogolsouza/portfolio/tree/main/certifications
 
 ### 🟦 Microsoft
 - DP-900 — Azure Data Fundamentals  
