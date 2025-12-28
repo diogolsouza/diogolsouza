@@ -164,7 +164,13 @@ For the full certification list, see my GitHub profile:
 ### 🟡 TDWI
 - CBIP — Data Foundations Exam  
 - CBIP — IS Core Exam  
-- CBIP — Data Integration (Specialty Exam)  
+- CBIP — Data Integration (Specialty Exam)
+
+---
+
+### 🟢 ISO / AI Governance
+
+- ISO/IEC 42001 — Artificial Intelligence Management System (AIMS)
 
 ---
 
